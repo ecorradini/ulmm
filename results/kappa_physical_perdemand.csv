@@ -1,0 +1,1866 @@
+city,k,d,status
+Amsterdam,1,46173228,affected
+Amsterdam,1,46173879,witness
+Amsterdam,1,46188193,witness
+Amsterdam,1,46202403,witness
+Amsterdam,1,46203773,witness
+Amsterdam,1,46203826,witness
+Amsterdam,1,46210174,witness
+Amsterdam,1,46226051,witness
+Amsterdam,1,46232048,witness
+Amsterdam,1,46233564,witness
+Amsterdam,1,46241980,witness
+Amsterdam,1,46245091,witness
+Amsterdam,1,46245850,affected
+Amsterdam,1,46254018,affected
+Amsterdam,1,46262650,affected
+Amsterdam,1,46268854,affected
+Amsterdam,1,46268858,witness
+Amsterdam,1,46285788,witness
+Amsterdam,1,46292054,witness
+Amsterdam,1,46304102,affected
+Amsterdam,1,46310386,witness
+Amsterdam,1,46311221,affected
+Amsterdam,1,46311892,witness
+Amsterdam,1,46315759,affected
+Amsterdam,1,46322718,affected
+Amsterdam,1,46322722,witness
+Amsterdam,1,46325460,witness
+Amsterdam,1,46330371,witness
+Amsterdam,1,46342863,witness
+Amsterdam,1,46345386,witness
+Amsterdam,1,46346389,witness
+Amsterdam,1,46346468,affected
+Amsterdam,1,46351114,witness
+Amsterdam,1,46359172,witness
+Amsterdam,1,46363900,witness
+Amsterdam,1,46365716,witness
+Amsterdam,1,46367399,witness
+Amsterdam,1,46369747,witness
+Amsterdam,1,46384590,witness
+Amsterdam,1,46385113,witness
+Amsterdam,1,46386984,witness
+Amsterdam,1,46390320,witness
+Amsterdam,1,46404184,witness
+Amsterdam,1,46404755,witness
+Amsterdam,1,46410375,witness
+Amsterdam,1,46415865,witness
+Amsterdam,1,46420912,witness
+Amsterdam,1,46424348,witness
+Amsterdam,1,46427763,witness
+Amsterdam,1,46429656,witness
+Amsterdam,1,46430099,witness
+Amsterdam,1,46432455,witness
+Amsterdam,1,46434295,affected
+Amsterdam,1,46435511,affected
+Amsterdam,1,46450028,affected
+Amsterdam,1,46451017,witness
+Amsterdam,1,46463601,witness
+Amsterdam,1,46471597,affected
+Amsterdam,1,46472711,witness
+Amsterdam,1,46472779,witness
+Amsterdam,1,46478508,affected
+Amsterdam,1,46485162,witness
+Amsterdam,1,46514542,witness
+Amsterdam,1,46514806,witness
+Amsterdam,1,46520014,affected
+Amsterdam,1,46535755,witness
+Amsterdam,1,46548464,witness
+Amsterdam,1,46548744,witness
+Amsterdam,1,46553708,witness
+Amsterdam,1,46555663,witness
+Amsterdam,1,280989731,witness
+Amsterdam,1,292241354,witness
+Amsterdam,1,401352873,affected
+Amsterdam,1,420241704,witness
+Amsterdam,1,456854630,witness
+Amsterdam,1,504576044,witness
+Amsterdam,1,636093337,witness
+Amsterdam,1,810541337,witness
+Amsterdam,1,814763666,witness
+Amsterdam,1,830007801,affected
+Amsterdam,1,885659107,witness
+Amsterdam,1,1025242720,witness
+Amsterdam,1,1032858490,witness
+Amsterdam,1,1224210135,witness
+Amsterdam,1,1284046432,witness
+Amsterdam,1,1575311685,witness
+Amsterdam,1,1587421936,affected
+Amsterdam,1,1615543977,witness
+Amsterdam,1,1638916771,witness
+Amsterdam,1,1673410150,affected
+Amsterdam,1,1718573622,affected
+Amsterdam,1,1764586015,affected
+Amsterdam,1,1976839543,witness
+Amsterdam,1,2028093778,witness
+Amsterdam,1,2053253428,affected
+Amsterdam,1,2304048772,witness
+Amsterdam,1,2801224787,witness
+Amsterdam,1,2882580890,affected
+Amsterdam,1,3167200102,witness
+Amsterdam,1,3188225066,witness
+Amsterdam,1,3300515578,witness
+Amsterdam,1,3416675263,witness
+Amsterdam,1,3752782350,witness
+Amsterdam,1,4053664514,witness
+Amsterdam,1,4333085459,witness
+Amsterdam,1,4921687164,affected
+Amsterdam,1,5805453834,witness
+Amsterdam,1,5856758093,affected
+Amsterdam,1,6066265670,witness
+Amsterdam,1,6149973645,witness
+Amsterdam,1,6459278056,affected
+Amsterdam,1,6472987925,affected
+Amsterdam,1,6949019795,witness
+Amsterdam,1,7042586056,witness
+Amsterdam,1,7552907634,affected
+Amsterdam,1,7800918439,witness
+Amsterdam,1,7883614520,affected
+Amsterdam,1,7920375542,affected
+Amsterdam,1,7926245407,witness
+Amsterdam,1,8036446607,witness
+Amsterdam,1,8116544761,witness
+Amsterdam,1,8718272188,witness
+Amsterdam,1,8942712546,witness
+Amsterdam,1,9476330484,witness
+Amsterdam,1,10058947369,affected
+Amsterdam,1,11029570311,witness
+Amsterdam,1,11962862993,affected
+Amsterdam,3,26585460,witness
+Amsterdam,3,46173228,witness
+Amsterdam,3,46173879,witness
+Amsterdam,3,46209547,witness
+Amsterdam,3,46210174,witness
+Amsterdam,3,46226051,witness
+Amsterdam,3,46232048,witness
+Amsterdam,3,46233564,witness
+Amsterdam,3,46244938,witness
+Amsterdam,3,46245091,witness
+Amsterdam,3,46245850,affected
+Amsterdam,3,46254018,witness
+Amsterdam,3,46262650,affected
+Amsterdam,3,46268854,affected
+Amsterdam,3,46276656,witness
+Amsterdam,3,46283554,witness
+Amsterdam,3,46288279,witness
+Amsterdam,3,46289604,witness
+Amsterdam,3,46306163,witness
+Amsterdam,3,46312105,witness
+Amsterdam,3,46315539,witness
+Amsterdam,3,46315759,affected
+Amsterdam,3,46326107,witness
+Amsterdam,3,46348398,affected
+Amsterdam,3,46351114,witness
+Amsterdam,3,46359172,witness
+Amsterdam,3,46361614,witness
+Amsterdam,3,46366150,affected
+Amsterdam,3,46383015,witness
+Amsterdam,3,46385113,witness
+Amsterdam,3,46386984,witness
+Amsterdam,3,46404672,witness
+Amsterdam,3,46410367,witness
+Amsterdam,3,46410375,witness
+Amsterdam,3,46415865,witness
+Amsterdam,3,46420912,witness
+Amsterdam,3,46424348,witness
+Amsterdam,3,46432836,witness
+Amsterdam,3,46463601,witness
+Amsterdam,3,46471597,affected
+Amsterdam,3,46472711,witness
+Amsterdam,3,46478508,affected
+Amsterdam,3,46512176,witness
+Amsterdam,3,46514542,witness
+Amsterdam,3,46520014,witness
+Amsterdam,3,46548464,witness
+Amsterdam,3,46548744,witness
+Amsterdam,3,46553708,witness
+Amsterdam,3,292241354,witness
+Amsterdam,3,295085734,witness
+Amsterdam,3,303203391,witness
+Amsterdam,3,330033173,witness
+Amsterdam,3,401352873,affected
+Amsterdam,3,420241704,witness
+Amsterdam,3,504576044,witness
+Amsterdam,3,617025696,affected
+Amsterdam,3,810541337,witness
+Amsterdam,3,922662498,witness
+Amsterdam,3,1025242720,witness
+Amsterdam,3,1032858490,witness
+Amsterdam,3,1042870353,witness
+Amsterdam,3,1224210135,witness
+Amsterdam,3,1525015190,witness
+Amsterdam,3,1575311685,witness
+Amsterdam,3,1587421936,affected
+Amsterdam,3,1625112157,witness
+Amsterdam,3,1638916771,witness
+Amsterdam,3,1673410150,witness
+Amsterdam,3,1718573622,witness
+Amsterdam,3,1764586015,affected
+Amsterdam,3,1891957960,witness
+Amsterdam,3,2016695185,affected
+Amsterdam,3,2053253428,witness
+Amsterdam,3,2102754850,witness
+Amsterdam,3,2396583192,witness
+Amsterdam,3,2767260184,witness
+Amsterdam,3,2772719489,witness
+Amsterdam,3,2801224787,witness
+Amsterdam,3,2821156677,affected
+Amsterdam,3,2822146021,witness
+Amsterdam,3,2882580890,witness
+Amsterdam,3,3167200102,witness
+Amsterdam,3,3295119971,witness
+Amsterdam,3,3898433611,witness
+Amsterdam,3,4541539713,witness
+Amsterdam,3,4799100471,witness
+Amsterdam,3,4847860136,affected
+Amsterdam,3,4921687164,affected
+Amsterdam,3,5705913800,witness
+Amsterdam,3,5856758093,affected
+Amsterdam,3,5911917067,affected
+Amsterdam,3,6249848704,witness
+Amsterdam,3,6472987925,witness
+Amsterdam,3,6867794194,witness
+Amsterdam,3,6904057007,witness
+Amsterdam,3,6949019795,witness
+Amsterdam,3,7093136772,witness
+Amsterdam,3,7552907634,affected
+Amsterdam,3,7883614520,affected
+Amsterdam,3,7920375542,affected
+Amsterdam,3,7997216056,affected
+Amsterdam,3,8116544761,witness
+Amsterdam,3,8441540293,witness
+Amsterdam,3,8745641794,witness
+Amsterdam,3,8942712546,witness
+Amsterdam,3,9794426407,witness
+Amsterdam,3,10058947369,affected
+Amsterdam,3,10894631392,witness
+Amsterdam,3,11029570311,witness
+Amsterdam,3,11029986849,witness
+Amsterdam,3,11224390095,witness
+Amsterdam,3,11962862993,affected
+Amsterdam,3,12072406522,witness
+Amsterdam,3,12922375582,witness
+Barcelona,1,30236779,witness
+Barcelona,1,30237479,witness
+Barcelona,1,30237772,witness
+Barcelona,1,30238025,witness
+Barcelona,1,30242759,witness
+Barcelona,1,30242764,witness
+Barcelona,1,30243889,witness
+Barcelona,1,30244000,witness
+Barcelona,1,30247027,witness
+Barcelona,1,30248312,witness
+Barcelona,1,30248550,witness
+Barcelona,1,30253297,witness
+Barcelona,1,30254011,witness
+Barcelona,1,30254082,witness
+Barcelona,1,30254089,witness
+Barcelona,1,30254596,witness
+Barcelona,1,30254613,witness
+Barcelona,1,30264420,witness
+Barcelona,1,30264555,witness
+Barcelona,1,30294332,witness
+Barcelona,1,30294673,witness
+Barcelona,1,30295335,witness
+Barcelona,1,30295408,witness
+Barcelona,1,30296347,witness
+Barcelona,1,30297272,witness
+Barcelona,1,30312388,witness
+Barcelona,1,30312481,witness
+Barcelona,1,30312952,witness
+Barcelona,1,30313171,witness
+Barcelona,1,30313182,witness
+Barcelona,1,30314638,witness
+Barcelona,1,30343467,witness
+Barcelona,1,30553748,witness
+Barcelona,1,30555974,witness
+Barcelona,1,30960786,witness
+Barcelona,1,35120255,witness
+Barcelona,1,91783971,witness
+Barcelona,1,126797329,witness
+Barcelona,1,253790706,affected
+Barcelona,1,258359387,witness
+Barcelona,1,260723600,witness
+Barcelona,1,273102085,witness
+Barcelona,1,288024527,witness
+Barcelona,1,301572279,witness
+Barcelona,1,330417668,witness
+Barcelona,1,364720256,witness
+Barcelona,1,365564404,witness
+Barcelona,1,376748008,witness
+Barcelona,1,387127535,witness
+Barcelona,1,390057404,witness
+Barcelona,1,390227080,witness
+Barcelona,1,412436543,witness
+Barcelona,1,412453203,witness
+Barcelona,1,415716567,witness
+Barcelona,1,416012211,witness
+Barcelona,1,417972197,witness
+Barcelona,1,417979586,witness
+Barcelona,1,430757826,witness
+Barcelona,1,442540276,witness
+Barcelona,1,457394433,witness
+Barcelona,1,537861932,witness
+Barcelona,1,541644020,witness
+Barcelona,1,552884560,witness
+Barcelona,1,557230343,witness
+Barcelona,1,559424463,witness
+Barcelona,1,559787230,witness
+Barcelona,1,568495538,witness
+Barcelona,1,568847334,witness
+Barcelona,1,598224964,witness
+Barcelona,1,700938101,witness
+Barcelona,1,760332207,witness
+Barcelona,1,772984585,affected
+Barcelona,1,797498302,witness
+Barcelona,1,955030275,witness
+Barcelona,1,960625586,affected
+Barcelona,1,998615790,witness
+Barcelona,1,1075221588,witness
+Barcelona,1,1148143947,affected
+Barcelona,1,1299613770,affected
+Barcelona,1,1363598881,witness
+Barcelona,1,1368967593,witness
+Barcelona,1,1374757788,affected
+Barcelona,1,1479334732,witness
+Barcelona,1,1532752080,witness
+Barcelona,1,1610134825,witness
+Barcelona,1,1622477296,witness
+Barcelona,1,1787518046,witness
+Barcelona,1,1840721017,witness
+Barcelona,1,1912198618,witness
+Barcelona,1,1912611158,witness
+Barcelona,1,2087205008,witness
+Barcelona,1,2128042600,witness
+Barcelona,1,2128051855,witness
+Barcelona,1,2262659438,witness
+Barcelona,1,2268659706,witness
+Barcelona,1,2293731650,witness
+Barcelona,1,2593809553,witness
+Barcelona,1,2610196546,witness
+Barcelona,1,2677447194,witness
+Barcelona,1,2749938625,witness
+Barcelona,1,2777318575,witness
+Barcelona,1,2888571943,witness
+Barcelona,1,2972809856,witness
+Barcelona,1,3199153776,witness
+Barcelona,1,3215617656,affected
+Barcelona,1,3528888206,witness
+Barcelona,1,3683481332,witness
+Barcelona,1,3934957720,witness
+Barcelona,1,4234151123,witness
+Barcelona,1,4318089939,affected
+Barcelona,1,4485344001,witness
+Barcelona,1,4541533775,affected
+Barcelona,1,4653143524,witness
+Barcelona,1,4834268092,witness
+Barcelona,1,4965780374,witness
+Barcelona,1,4968308518,affected
+Barcelona,1,5247256771,witness
+Barcelona,1,5908351895,witness
+Barcelona,1,6066409948,affected
+Barcelona,1,6842012554,affected
+Barcelona,1,7507211789,witness
+Barcelona,1,7526485262,witness
+Barcelona,1,9388663514,witness
+Barcelona,1,11374707215,witness
+Barcelona,1,12966750100,witness
+Barcelona,3,21638855,witness
+Barcelona,3,30227399,witness
+Barcelona,3,30242764,witness
+Barcelona,3,30254011,witness
+Barcelona,3,30254613,witness
+Barcelona,3,30294673,witness
+Barcelona,3,30296347,witness
+Barcelona,3,30296368,witness
+Barcelona,3,30297272,witness
+Barcelona,3,30312952,witness
+Barcelona,3,30343467,witness
+Barcelona,3,35120255,witness
+Barcelona,3,60969514,witness
+Barcelona,3,258359387,witness
+Barcelona,3,312680287,witness
+Barcelona,3,340195871,witness
+Barcelona,3,359099426,witness
+Barcelona,3,364719899,witness
+Barcelona,3,366222990,witness
+Barcelona,3,387127535,witness
+Barcelona,3,390227097,witness
+Barcelona,3,416523682,witness
+Barcelona,3,430757826,witness
+Barcelona,3,457394433,witness
+Barcelona,3,481146996,affected
+Barcelona,3,535228353,witness
+Barcelona,3,537861932,witness
+Barcelona,3,541644020,witness
+Barcelona,3,552884560,witness
+Barcelona,3,576583334,witness
+Barcelona,3,582874668,witness
+Barcelona,3,598224964,witness
+Barcelona,3,600466257,witness
+Barcelona,3,601047993,witness
+Barcelona,3,634519971,witness
+Barcelona,3,668513854,witness
+Barcelona,3,692807356,affected
+Barcelona,3,771231881,witness
+Barcelona,3,977641428,witness
+Barcelona,3,998615790,witness
+Barcelona,3,1148143947,affected
+Barcelona,3,1299373047,witness
+Barcelona,3,1374636541,witness
+Barcelona,3,1421429965,witness
+Barcelona,3,1500032696,witness
+Barcelona,3,1532752080,witness
+Barcelona,3,1610134825,witness
+Barcelona,3,1613677358,witness
+Barcelona,3,1622477296,witness
+Barcelona,3,1708943419,witness
+Barcelona,3,1853174728,witness
+Barcelona,3,1912198618,witness
+Barcelona,3,1912611158,witness
+Barcelona,3,2087205008,witness
+Barcelona,3,2087205009,witness
+Barcelona,3,2128042600,witness
+Barcelona,3,2268659706,witness
+Barcelona,3,2593809553,witness
+Barcelona,3,2677447194,witness
+Barcelona,3,2706292285,witness
+Barcelona,3,2972809856,witness
+Barcelona,3,3005325699,witness
+Barcelona,3,3044253138,witness
+Barcelona,3,3048076640,witness
+Barcelona,3,3129196084,witness
+Barcelona,3,3215617656,witness
+Barcelona,3,3528888206,witness
+Barcelona,3,3635761667,witness
+Barcelona,3,3805966095,witness
+Barcelona,3,3856010100,witness
+Barcelona,3,4139421839,affected
+Barcelona,3,4159251102,witness
+Barcelona,3,4182135640,witness
+Barcelona,3,4222897297,witness
+Barcelona,3,4252472568,witness
+Barcelona,3,4318089939,affected
+Barcelona,3,4343830708,witness
+Barcelona,3,4461889412,witness
+Barcelona,3,4541533775,affected
+Barcelona,3,4968308518,affected
+Barcelona,3,5023791993,witness
+Barcelona,3,5159196081,witness
+Barcelona,3,5247256771,witness
+Barcelona,3,5767709820,witness
+Barcelona,3,6066409948,affected
+Barcelona,3,6082812857,witness
+Barcelona,3,6842012554,witness
+Barcelona,3,6978253606,witness
+Barcelona,3,7252348260,witness
+Barcelona,3,7252348348,witness
+Barcelona,3,7324925163,witness
+Barcelona,3,8384828362,witness
+Barcelona,3,9458274498,witness
+Barcelona,3,11020963045,witness
+Barcelona,3,11374707215,witness
+Paris,1,361058,witness
+Paris,1,361125,witness
+Paris,1,368064,affected
+Paris,1,442296,witness
+Paris,1,4616565,witness
+Paris,1,15378804,witness
+Paris,1,15378831,witness
+Paris,1,21657548,witness
+Paris,1,21732950,witness
+Paris,1,24910433,witness
+Paris,1,24912984,witness
+Paris,1,24984664,witness
+Paris,1,25002683,witness
+Paris,1,25033084,witness
+Paris,1,25103068,witness
+Paris,1,25190627,witness
+Paris,1,25207350,witness
+Paris,1,25253764,witness
+Paris,1,25255893,affected
+Paris,1,25554459,witness
+Paris,1,26401695,witness
+Paris,1,26551726,witness
+Paris,1,26588359,witness
+Paris,1,27117336,witness
+Paris,1,27180828,witness
+Paris,1,27234189,witness
+Paris,1,27234216,witness
+Paris,1,27234737,witness
+Paris,1,27234947,witness
+Paris,1,27235261,witness
+Paris,1,27235559,witness
+Paris,1,27323772,witness
+Paris,1,27373358,witness
+Paris,1,27373407,witness
+Paris,1,31960801,witness
+Paris,1,34816573,affected
+Paris,1,34816752,witness
+Paris,1,34817741,affected
+Paris,1,34818374,witness
+Paris,1,34818419,witness
+Paris,1,34837156,witness
+Paris,1,36473759,witness
+Paris,1,36483363,witness
+Paris,1,52842220,affected
+Paris,1,54781287,witness
+Paris,1,88199568,witness
+Paris,1,94140445,witness
+Paris,1,94157762,witness
+Paris,1,94164242,witness
+Paris,1,94174398,witness
+Paris,1,94186411,witness
+Paris,1,94187782,witness
+Paris,1,94218583,witness
+Paris,1,94236658,witness
+Paris,1,94249439,witness
+Paris,1,96138283,witness
+Paris,1,96146088,witness
+Paris,1,113494973,witness
+Paris,1,116124379,witness
+Paris,1,116147180,witness
+Paris,1,125353236,witness
+Paris,1,125383643,witness
+Paris,1,130052295,witness
+Paris,1,141604644,witness
+Paris,1,148945385,affected
+Paris,1,152807172,witness
+Paris,1,158834602,witness
+Paris,1,166335615,witness
+Paris,1,175042439,witness
+Paris,1,176934169,witness
+Paris,1,177308561,witness
+Paris,1,178760713,witness
+Paris,1,178763514,witness
+Paris,1,185848442,witness
+Paris,1,201646642,witness
+Paris,1,202815391,witness
+Paris,1,203329020,witness
+Paris,1,203329763,witness
+Paris,1,205088968,witness
+Paris,1,208761485,affected
+Paris,1,208921845,witness
+Paris,1,209141078,affected
+Paris,1,216034236,witness
+Paris,1,244455502,witness
+Paris,1,244455544,witness
+Paris,1,244580618,witness
+Paris,1,247757518,witness
+Paris,1,250349330,witness
+Paris,1,260619967,witness
+Paris,1,260653353,witness
+Paris,1,268227835,witness
+Paris,1,268233890,witness
+Paris,1,270730345,witness
+Paris,1,271464117,witness
+Paris,1,294282580,affected
+Paris,1,299271453,witness
+Paris,1,306598642,witness
+Paris,1,315296216,witness
+Paris,1,315304259,witness
+Paris,1,316798969,witness
+Paris,1,332476877,witness
+Paris,1,368732449,witness
+Paris,1,415004956,witness
+Paris,1,428051495,affected
+Paris,1,431516479,affected
+Paris,1,439881550,witness
+Paris,1,497428120,witness
+Paris,1,505820709,witness
+Paris,1,507256883,witness
+Paris,1,556195065,witness
+Paris,1,567367734,witness
+Paris,1,583023059,witness
+Paris,1,592662444,witness
+Paris,1,627834146,witness
+Paris,1,643357264,affected
+Paris,1,648217878,witness
+Paris,1,654070275,witness
+Paris,1,702937926,witness
+Paris,1,707878884,witness
+Paris,1,933223108,witness
+Paris,1,1000295093,affected
+Paris,1,1027183337,witness
+Paris,1,1269926046,witness
+Paris,1,1307776985,affected
+Paris,1,1313369659,witness
+Paris,1,1447944173,affected
+Paris,1,1455773025,witness
+Paris,1,1736637853,witness
+Paris,1,1756960219,witness
+Paris,1,1773530054,witness
+Paris,1,2127247613,witness
+Paris,1,2282481082,affected
+Paris,1,2499653035,witness
+Paris,1,2863101693,witness
+Paris,1,3036682208,affected
+Paris,1,3906714794,witness
+Paris,1,4225762683,witness
+Paris,1,4583249023,witness
+Paris,1,4936818523,witness
+Paris,1,5387166534,witness
+Paris,1,5526475265,witness
+Paris,1,5574563073,witness
+Paris,1,6227063997,witness
+Paris,1,6842691284,witness
+Paris,1,8194889283,affected
+Paris,1,8411278648,witness
+Paris,1,8595850885,witness
+Paris,1,9431369513,witness
+Paris,1,9659338682,witness
+Paris,1,9758456411,affected
+Paris,1,9966672196,affected
+Paris,1,11367918454,witness
+Paris,1,11868224365,witness
+Paris,1,12776721757,affected
+Paris,3,361738,witness
+Paris,3,442296,witness
+Paris,3,14803152,witness
+Paris,3,15378804,witness
+Paris,3,24912984,witness
+Paris,3,25002683,witness
+Paris,3,25033084,witness
+Paris,3,25183526,witness
+Paris,3,25188960,witness
+Paris,3,26401006,witness
+Paris,3,26588359,witness
+Paris,3,27117336,witness
+Paris,3,27235559,witness
+Paris,3,27323772,witness
+Paris,3,27373358,witness
+Paris,3,27373407,witness
+Paris,3,30558781,witness
+Paris,3,32561073,witness
+Paris,3,34816563,witness
+Paris,3,34816573,affected
+Paris,3,34817689,witness
+Paris,3,34818271,witness
+Paris,3,34818419,witness
+Paris,3,34837156,witness
+Paris,3,36489250,witness
+Paris,3,94193348,witness
+Paris,3,94236658,witness
+Paris,3,100291881,witness
+Paris,3,112017915,witness
+Paris,3,113494973,witness
+Paris,3,125392870,witness
+Paris,3,148945385,witness
+Paris,3,152807172,witness
+Paris,3,166335615,witness
+Paris,3,174982973,witness
+Paris,3,176934169,witness
+Paris,3,177308561,witness
+Paris,3,180296150,witness
+Paris,3,202815391,witness
+Paris,3,203329763,witness
+Paris,3,208761485,affected
+Paris,3,216034236,witness
+Paris,3,244455544,witness
+Paris,3,246286541,witness
+Paris,3,249624262,witness
+Paris,3,255390708,witness
+Paris,3,258050714,witness
+Paris,3,260427380,witness
+Paris,3,267696509,witness
+Paris,3,268227835,witness
+Paris,3,268233890,witness
+Paris,3,271464117,witness
+Paris,3,299271453,witness
+Paris,3,315304259,witness
+Paris,3,316798969,witness
+Paris,3,320203228,witness
+Paris,3,330217377,witness
+Paris,3,332199745,witness
+Paris,3,439881550,witness
+Paris,3,556195065,witness
+Paris,3,627834146,witness
+Paris,3,676821311,witness
+Paris,3,677610912,witness
+Paris,3,920531716,witness
+Paris,3,933275652,witness
+Paris,3,1000295093,witness
+Paris,3,1191738467,witness
+Paris,3,1266559596,witness
+Paris,3,1307776975,witness
+Paris,3,1307776985,witness
+Paris,3,1754652819,witness
+Paris,3,1989894444,witness
+Paris,3,2268049574,witness
+Paris,3,2282481082,affected
+Paris,3,2499653035,witness
+Paris,3,2575067143,witness
+Paris,3,2705349984,witness
+Paris,3,2722937629,witness
+Paris,3,2763050894,witness
+Paris,3,3371742245,witness
+Paris,3,3623124172,witness
+Paris,3,3881610829,witness
+Paris,3,4511298500,witness
+Paris,3,5059182773,witness
+Paris,3,5326007928,witness
+Paris,3,5881358779,witness
+Paris,3,6114099355,witness
+Paris,3,6227063997,witness
+Paris,3,6427205097,affected
+Paris,3,6842691284,witness
+Paris,3,7020299816,witness
+Paris,3,7062789507,witness
+Paris,3,7358099880,witness
+Paris,3,7736949901,witness
+Paris,3,9659338682,witness
+Paris,3,10048157406,affected
+Paris,3,11367918454,witness
+Paris,3,11368478647,affected
+Paris,3,11953306076,witness
+Paris,3,12132503708,witness
+Paris,3,12299572421,witness
+Seattle,1,30101226,affected
+Seattle,1,30790065,witness
+Seattle,1,52969130,witness
+Seattle,1,53085545,witness
+Seattle,1,53098412,witness
+Seattle,1,53108154,witness
+Seattle,1,53108381,affected
+Seattle,1,53110855,witness
+Seattle,1,53113544,affected
+Seattle,1,53181625,witness
+Seattle,1,53187913,witness
+Seattle,1,53208759,affected
+Seattle,1,53212695,witness
+Seattle,1,53213307,witness
+Seattle,1,53229368,affected
+Seattle,1,53241032,witness
+Seattle,1,60002834,witness
+Seattle,1,90265337,affected
+Seattle,1,95600603,witness
+Seattle,1,286513057,affected
+Seattle,1,440979356,affected
+Seattle,1,504899471,witness
+Seattle,1,507964885,witness
+Seattle,1,638867965,affected
+Seattle,1,1115816512,witness
+Seattle,1,1125210193,witness
+Seattle,1,2040315692,affected
+Seattle,1,2141054400,affected
+Seattle,1,2396814694,affected
+Seattle,1,2672468975,affected
+Seattle,1,3583904795,affected
+Seattle,1,3649707098,affected
+Seattle,1,3651039440,witness
+Seattle,1,3653684435,affected
+Seattle,1,3662383538,affected
+Seattle,1,3662431280,affected
+Seattle,1,3785431358,affected
+Seattle,1,3843709580,affected
+Seattle,1,3874121460,affected
+Seattle,1,3882663515,witness
+Seattle,1,3921157491,affected
+Seattle,1,3957289585,witness
+Seattle,1,3996640455,affected
+Seattle,1,4003588843,witness
+Seattle,1,4077365730,affected
+Seattle,1,4325942687,affected
+Seattle,1,4335872659,affected
+Seattle,1,4489407142,affected
+Seattle,1,4607149914,affected
+Seattle,1,4931559414,witness
+Seattle,1,5082899620,affected
+Seattle,1,5419998831,affected
+Seattle,1,5429873454,affected
+Seattle,1,5429873500,affected
+Seattle,1,5431718705,witness
+Seattle,1,5431736219,affected
+Seattle,1,5440513382,witness
+Seattle,1,5440639633,affected
+Seattle,1,5440749552,affected
+Seattle,1,5443512726,witness
+Seattle,1,5590816066,affected
+Seattle,1,6396732130,affected
+Seattle,1,6829908002,affected
+Seattle,1,6993770225,witness
+Seattle,1,7049548996,affected
+Seattle,1,7085259180,affected
+Seattle,1,7085587031,affected
+Seattle,1,7153479081,affected
+Seattle,1,7186947211,witness
+Seattle,1,7662634140,affected
+Seattle,1,8064800819,affected
+Seattle,1,8517991469,affected
+Seattle,1,8521568013,affected
+Seattle,1,8901552414,affected
+Seattle,1,8931858992,witness
+Seattle,1,8939054160,witness
+Seattle,1,9035031475,witness
+Seattle,1,9038275589,witness
+Seattle,1,9057501115,witness
+Seattle,1,9062448705,witness
+Seattle,1,9062701119,witness
+Seattle,1,9064920345,affected
+Seattle,1,9064942351,witness
+Seattle,1,9068684856,witness
+Seattle,1,9068691057,witness
+Seattle,1,9072145900,witness
+Seattle,1,9091978627,witness
+Seattle,1,9115182953,witness
+Seattle,1,9118505526,witness
+Seattle,1,9133539800,witness
+Seattle,1,9155674446,witness
+Seattle,1,9170319563,witness
+Seattle,1,9170659932,witness
+Seattle,1,9170747841,witness
+Seattle,1,9173537311,witness
+Seattle,1,9181316275,witness
+Seattle,1,9184154604,witness
+Seattle,1,9214971497,witness
+Seattle,1,9224563958,witness
+Seattle,1,9224842261,witness
+Seattle,1,9225125737,witness
+Seattle,1,9225574382,witness
+Seattle,1,9227091547,witness
+Seattle,1,9430313724,affected
+Seattle,1,9451959383,witness
+Seattle,1,9763401676,affected
+Seattle,1,9848999919,affected
+Seattle,1,9881091026,affected
+Seattle,1,9895707247,affected
+Seattle,1,10221430743,witness
+Seattle,1,10970057534,affected
+Seattle,1,12851344134,witness
+Seattle,3,30101226,affected
+Seattle,3,53108154,witness
+Seattle,3,53110855,witness
+Seattle,3,53113544,affected
+Seattle,3,53181625,witness
+Seattle,3,53187335,affected
+Seattle,3,53208759,affected
+Seattle,3,53229368,affected
+Seattle,3,53241032,witness
+Seattle,3,69450849,affected
+Seattle,3,286513057,affected
+Seattle,3,504899471,witness
+Seattle,3,760144561,witness
+Seattle,3,1729170447,witness
+Seattle,3,2040315692,witness
+Seattle,3,2141054400,affected
+Seattle,3,2154874218,affected
+Seattle,3,2304322070,affected
+Seattle,3,2482976038,affected
+Seattle,3,2672468975,affected
+Seattle,3,2757738294,witness
+Seattle,3,3353354796,affected
+Seattle,3,3394701102,witness
+Seattle,3,3583904795,affected
+Seattle,3,3631791298,witness
+Seattle,3,3649707098,affected
+Seattle,3,3651039440,witness
+Seattle,3,3653684435,affected
+Seattle,3,3662383538,witness
+Seattle,3,3663412778,affected
+Seattle,3,3663412781,witness
+Seattle,3,3785301452,witness
+Seattle,3,3806993558,affected
+Seattle,3,3874121460,affected
+Seattle,3,3874895441,witness
+Seattle,3,3882681335,affected
+Seattle,3,3921157491,affected
+Seattle,3,3957289585,witness
+Seattle,3,4077365730,affected
+Seattle,3,4323757149,witness
+Seattle,3,4325942687,affected
+Seattle,3,4327126177,affected
+Seattle,3,4335872659,affected
+Seattle,3,4346296053,affected
+Seattle,3,4410665100,witness
+Seattle,3,4441403398,witness
+Seattle,3,4515330965,affected
+Seattle,3,4623167035,affected
+Seattle,3,4876518633,witness
+Seattle,3,5082899620,witness
+Seattle,3,5418740244,witness
+Seattle,3,5422137271,affected
+Seattle,3,5429833871,affected
+Seattle,3,5429873099,affected
+Seattle,3,5431396623,witness
+Seattle,3,5431634325,affected
+Seattle,3,5431634574,witness
+Seattle,3,5431736219,affected
+Seattle,3,5435147031,affected
+Seattle,3,5435147087,affected
+Seattle,3,5440042837,affected
+Seattle,3,5440639633,affected
+Seattle,3,5440749552,affected
+Seattle,3,5442291312,affected
+Seattle,3,5443512726,witness
+Seattle,3,5443512940,witness
+Seattle,3,5494934054,affected
+Seattle,3,5627673255,affected
+Seattle,3,5695638053,affected
+Seattle,3,6396732130,affected
+Seattle,3,6886096575,witness
+Seattle,3,7111579774,affected
+Seattle,3,7143813386,affected
+Seattle,3,7153479081,affected
+Seattle,3,7298857410,witness
+Seattle,3,7320886486,affected
+Seattle,3,7662634140,affected
+Seattle,3,7814053425,witness
+Seattle,3,8064800819,affected
+Seattle,3,8771067542,affected
+Seattle,3,8815296282,witness
+Seattle,3,9018592460,witness
+Seattle,3,9155674446,witness
+Seattle,3,9214971497,witness
+Seattle,3,9451959383,witness
+Seattle,3,9544709217,affected
+Seattle,3,9763401676,affected
+Seattle,3,9831093822,witness
+Seattle,3,9848999919,affected
+Seattle,3,9881091026,witness
+Seattle,3,9895707247,affected
+Seattle,3,9912752549,witness
+Seattle,3,9914241612,affected
+Seattle,3,10059894785,witness
+Seattle,3,10067487878,affected
+Seattle,3,10221430743,witness
+Seattle,3,10895123383,witness
+Seattle,3,10970057534,affected
+Seattle,3,11088954580,witness
+Seattle,3,11337710806,witness
+Seattle,3,11954544878,affected
+Seattle,3,12863756180,affected
+New York City,1,42421889,witness
+New York City,1,42422026,witness
+New York City,1,42427030,witness
+New York City,1,42427358,witness
+New York City,1,42427381,witness
+New York City,1,42428408,witness
+New York City,1,42428701,witness
+New York City,1,42428936,witness
+New York City,1,42429521,witness
+New York City,1,42429838,witness
+New York City,1,42429876,witness
+New York City,1,42430314,witness
+New York City,1,42430361,witness
+New York City,1,42430603,witness
+New York City,1,42430742,witness
+New York City,1,42430761,witness
+New York City,1,42431482,affected
+New York City,1,42431549,witness
+New York City,1,42431671,witness
+New York City,1,42432564,witness
+New York City,1,42432693,witness
+New York City,1,42432703,witness
+New York City,1,42432882,witness
+New York City,1,42433339,affected
+New York City,1,42435301,affected
+New York City,1,42435509,witness
+New York City,1,42435581,witness
+New York City,1,42435680,witness
+New York City,1,42436056,witness
+New York City,1,42436610,witness
+New York City,1,42436793,witness
+New York City,1,42437312,affected
+New York City,1,42437339,witness
+New York City,1,42437753,affected
+New York City,1,42438275,witness
+New York City,1,42438295,witness
+New York City,1,42438547,witness
+New York City,1,42438906,witness
+New York City,1,42439225,witness
+New York City,1,42439272,witness
+New York City,1,42439280,witness
+New York City,1,42439409,witness
+New York City,1,42439506,affected
+New York City,1,42439563,witness
+New York City,1,42439728,affected
+New York City,1,42440465,witness
+New York City,1,42441080,witness
+New York City,1,42441310,witness
+New York City,1,42441805,witness
+New York City,1,42442552,witness
+New York City,1,42442589,witness
+New York City,1,42442857,witness
+New York City,1,42443280,witness
+New York City,1,42443426,witness
+New York City,1,42443821,witness
+New York City,1,42444353,witness
+New York City,1,42444873,witness
+New York City,1,42445232,witness
+New York City,1,42445489,witness
+New York City,1,42445672,affected
+New York City,1,42445936,witness
+New York City,1,42446164,witness
+New York City,1,42446187,witness
+New York City,1,42446337,affected
+New York City,1,42446521,witness
+New York City,1,42447281,affected
+New York City,1,42448811,witness
+New York City,1,42449413,witness
+New York City,1,42449576,witness
+New York City,1,42449947,witness
+New York City,1,42450037,witness
+New York City,1,42454042,witness
+New York City,1,42456107,witness
+New York City,1,42457788,witness
+New York City,1,42460192,witness
+New York City,1,42460425,affected
+New York City,1,42461063,witness
+New York City,1,42464770,witness
+New York City,1,42465036,witness
+New York City,1,42465804,witness
+New York City,1,42465908,witness
+New York City,1,42467150,witness
+New York City,1,42469180,witness
+New York City,1,42469193,witness
+New York City,1,42469534,witness
+New York City,1,42470545,witness
+New York City,1,42471156,witness
+New York City,1,42472039,witness
+New York City,1,42472421,witness
+New York City,1,42472534,witness
+New York City,1,42472696,witness
+New York City,1,42473229,witness
+New York City,1,42473621,affected
+New York City,1,42474135,witness
+New York City,1,42474225,witness
+New York City,1,42475498,witness
+New York City,1,42476344,witness
+New York City,1,42476372,witness
+New York City,1,42476494,witness
+New York City,1,42477434,witness
+New York City,1,42477750,witness
+New York City,1,42477886,witness
+New York City,1,42478109,witness
+New York City,1,42478127,witness
+New York City,1,42478938,witness
+New York City,1,42479023,witness
+New York City,1,42479624,witness
+New York City,1,42480320,witness
+New York City,1,42480973,affected
+New York City,1,42481566,witness
+New York City,1,42481586,witness
+New York City,1,42482165,witness
+New York City,1,42482378,witness
+New York City,1,42483431,witness
+New York City,1,42483677,affected
+New York City,1,42484747,affected
+New York City,1,42484862,witness
+New York City,1,42484932,witness
+New York City,1,42485093,witness
+New York City,1,42486629,witness
+New York City,1,42486638,witness
+New York City,1,42486781,witness
+New York City,1,42487167,witness
+New York City,1,42487799,witness
+New York City,1,42487866,witness
+New York City,1,42488408,witness
+New York City,1,42488479,witness
+New York City,1,42489096,affected
+New York City,1,42489695,witness
+New York City,1,42490194,witness
+New York City,1,42490216,witness
+New York City,1,42490268,witness
+New York City,1,42490491,witness
+New York City,1,42491478,witness
+New York City,1,42491871,witness
+New York City,1,42492316,witness
+New York City,1,42492540,witness
+New York City,1,42494857,witness
+New York City,1,42496492,witness
+New York City,1,42497612,affected
+New York City,1,42498609,affected
+New York City,1,42498881,witness
+New York City,1,42499144,witness
+New York City,1,42499207,witness
+New York City,1,42499849,witness
+New York City,1,42500011,witness
+New York City,1,42500030,witness
+New York City,1,42500467,witness
+New York City,1,42500793,witness
+New York City,1,42501152,witness
+New York City,1,42501768,affected
+New York City,1,42502169,witness
+New York City,1,42502534,witness
+New York City,1,42503409,witness
+New York City,1,42503799,witness
+New York City,1,42504050,witness
+New York City,1,42504341,witness
+New York City,1,42504587,witness
+New York City,1,42505910,witness
+New York City,1,42509064,witness
+New York City,1,42509247,witness
+New York City,1,42511215,witness
+New York City,1,42511543,affected
+New York City,1,42512055,witness
+New York City,1,42512373,affected
+New York City,1,42512613,witness
+New York City,1,42513246,witness
+New York City,1,42514359,witness
+New York City,1,42514373,witness
+New York City,1,42514918,witness
+New York City,1,42515022,affected
+New York City,1,42515026,affected
+New York City,1,42515574,witness
+New York City,1,42515709,witness
+New York City,1,42516250,witness
+New York City,1,42516366,affected
+New York City,1,42516389,witness
+New York City,1,42517060,witness
+New York City,1,42517542,witness
+New York City,1,42518614,witness
+New York City,1,42519536,witness
+New York City,1,42519583,witness
+New York City,1,42520210,witness
+New York City,1,42520236,witness
+New York City,1,42520377,witness
+New York City,1,42521136,witness
+New York City,1,42521410,witness
+New York City,1,42522015,witness
+New York City,1,42523975,witness
+New York City,1,42524140,witness
+New York City,1,42532104,witness
+New York City,1,42532331,affected
+New York City,1,42533101,witness
+New York City,1,42533224,witness
+New York City,1,42535525,witness
+New York City,1,42536089,witness
+New York City,1,42537987,affected
+New York City,1,42726630,witness
+New York City,1,42730002,witness
+New York City,1,42730048,witness
+New York City,1,42731581,witness
+New York City,1,42731691,affected
+New York City,1,42731793,affected
+New York City,1,42732863,affected
+New York City,1,42732965,witness
+New York City,1,42734827,witness
+New York City,1,42735379,witness
+New York City,1,42735392,witness
+New York City,1,42735599,witness
+New York City,1,42735766,witness
+New York City,1,42735792,witness
+New York City,1,42736685,affected
+New York City,1,42737077,witness
+New York City,1,42742994,witness
+New York City,1,42743507,witness
+New York City,1,42745146,witness
+New York City,1,42746128,witness
+New York City,1,42746538,witness
+New York City,1,42747151,affected
+New York City,1,42747462,witness
+New York City,1,42748462,witness
+New York City,1,42748982,witness
+New York City,1,42749766,affected
+New York City,1,42750271,witness
+New York City,1,42751643,witness
+New York City,1,42752956,witness
+New York City,1,42752959,witness
+New York City,1,42753169,witness
+New York City,1,42757596,witness
+New York City,1,42758250,witness
+New York City,1,42760517,affected
+New York City,1,42761060,witness
+New York City,1,42762467,affected
+New York City,1,42762678,witness
+New York City,1,42763213,affected
+New York City,1,42763582,witness
+New York City,1,42763696,witness
+New York City,1,42764641,witness
+New York City,1,42768194,affected
+New York City,1,42771895,witness
+New York City,1,42778207,witness
+New York City,1,42780445,witness
+New York City,1,42781415,witness
+New York City,1,42786133,affected
+New York City,1,42788686,affected
+New York City,1,42789287,witness
+New York City,1,42791714,witness
+New York City,1,42804084,witness
+New York City,1,42805684,witness
+New York City,1,42806597,witness
+New York City,1,42807260,witness
+New York City,1,42809929,witness
+New York City,1,42810743,witness
+New York City,1,42811046,affected
+New York City,1,42812823,affected
+New York City,1,42813980,affected
+New York City,1,42814320,witness
+New York City,1,42814550,affected
+New York City,1,42815574,witness
+New York City,1,42816972,witness
+New York City,1,42817123,witness
+New York City,1,42818324,witness
+New York City,1,42818520,witness
+New York City,1,42820230,affected
+New York City,1,42820676,witness
+New York City,1,42821305,affected
+New York City,1,42821502,witness
+New York City,1,42821908,witness
+New York City,1,42822584,witness
+New York City,1,42822748,witness
+New York City,1,42823644,witness
+New York City,1,42823788,witness
+New York City,1,42824012,witness
+New York City,1,42824657,witness
+New York City,1,42825404,affected
+New York City,1,42826401,affected
+New York City,1,42827615,witness
+New York City,1,42827926,witness
+New York City,1,42829069,witness
+New York City,1,42829377,affected
+New York City,1,42831673,witness
+New York City,1,42831816,affected
+New York City,1,42833155,affected
+New York City,1,42833268,affected
+New York City,1,42834749,affected
+New York City,1,42835248,witness
+New York City,1,42835684,witness
+New York City,1,42835703,witness
+New York City,1,42836084,witness
+New York City,1,42836541,witness
+New York City,1,42837226,affected
+New York City,1,42838664,witness
+New York City,1,42842106,affected
+New York City,1,42843877,affected
+New York City,1,42844482,witness
+New York City,1,42844533,witness
+New York City,1,42845768,witness
+New York City,1,42846469,witness
+New York City,1,42846639,affected
+New York City,1,42847121,witness
+New York City,1,42847277,witness
+New York City,1,42848848,affected
+New York City,1,42849225,witness
+New York City,1,42850946,witness
+New York City,1,42851907,witness
+New York City,1,42853211,witness
+New York City,1,42855467,witness
+New York City,1,42856537,witness
+New York City,1,42859519,affected
+New York City,1,42860840,witness
+New York City,1,42861095,witness
+New York City,1,42861322,witness
+New York City,1,42862932,witness
+New York City,1,42863066,witness
+New York City,1,42863116,affected
+New York City,1,42864007,witness
+New York City,1,42866361,witness
+New York City,1,42871612,witness
+New York City,1,42872016,witness
+New York City,1,42875213,witness
+New York City,1,42878611,witness
+New York City,1,42890800,witness
+New York City,1,42890845,affected
+New York City,1,42891868,witness
+New York City,1,42891899,affected
+New York City,1,42892924,witness
+New York City,1,42895814,witness
+New York City,1,42896060,witness
+New York City,1,42896649,witness
+New York City,1,42896867,affected
+New York City,1,42896900,witness
+New York City,1,42898476,witness
+New York City,1,42899586,affected
+New York City,1,42900460,witness
+New York City,1,42900841,witness
+New York City,1,42903142,witness
+New York City,1,42907062,witness
+New York City,1,42909947,affected
+New York City,1,42910593,witness
+New York City,1,42910734,witness
+New York City,1,42915432,witness
+New York City,1,42915540,affected
+New York City,1,42917111,witness
+New York City,1,42920480,witness
+New York City,1,42928558,affected
+New York City,1,42932758,witness
+New York City,1,42933568,witness
+New York City,1,42934806,witness
+New York City,1,42943566,witness
+New York City,1,42944320,witness
+New York City,1,42944780,affected
+New York City,1,42944880,witness
+New York City,1,42948726,affected
+New York City,1,42949395,witness
+New York City,1,42950398,affected
+New York City,1,42951547,witness
+New York City,1,42953905,affected
+New York City,1,42953940,witness
+New York City,1,42957030,witness
+New York City,1,42958845,affected
+New York City,1,42959780,affected
+New York City,1,42960847,witness
+New York City,1,42961887,witness
+New York City,1,42962275,affected
+New York City,1,42964006,witness
+New York City,1,42964034,witness
+New York City,1,42964137,affected
+New York City,1,42964864,witness
+New York City,1,42964913,witness
+New York City,1,42967968,witness
+New York City,1,42968047,witness
+New York City,1,42970561,witness
+New York City,1,42972796,affected
+New York City,1,42973657,affected
+New York City,1,42975754,witness
+New York City,1,42978051,witness
+New York City,1,42979949,affected
+New York City,1,42980188,affected
+New York City,1,42985442,affected
+New York City,1,42986367,witness
+New York City,1,42986416,witness
+New York City,1,42986930,witness
+New York City,1,42990362,affected
+New York City,1,42991005,witness
+New York City,1,42996121,witness
+New York City,1,43002949,witness
+New York City,1,43005803,witness
+New York City,1,43007257,witness
+New York City,1,43007822,affected
+New York City,1,43008113,witness
+New York City,1,43014657,witness
+New York City,1,43015564,witness
+New York City,1,43023923,affected
+New York City,1,43025971,witness
+New York City,1,60653847,witness
+New York City,1,60837265,witness
+New York City,1,60921167,witness
+New York City,1,60927817,witness
+New York City,1,61269400,witness
+New York City,1,246901366,witness
+New York City,1,274187470,witness
+New York City,1,274325536,witness
+New York City,1,277046311,witness
+New York City,1,277787657,witness
+New York City,1,278221135,affected
+New York City,1,447758913,witness
+New York City,1,447759478,witness
+New York City,1,448095963,witness
+New York City,1,452389370,witness
+New York City,1,460237526,witness
+New York City,1,473242985,witness
+New York City,1,474743444,witness
+New York City,1,484213727,witness
+New York City,1,529051355,witness
+New York City,1,588152199,witness
+New York City,1,588152222,witness
+New York City,1,595314120,witness
+New York City,1,595441960,witness
+New York City,1,595801192,witness
+New York City,1,596583950,witness
+New York City,1,596775985,witness
+New York City,1,596776041,witness
+New York City,1,597294543,witness
+New York City,1,598043765,witness
+New York City,1,598622332,witness
+New York City,1,598789101,witness
+New York City,1,661821929,witness
+New York City,1,767502436,witness
+New York City,1,1000468695,witness
+New York City,1,1061531803,witness
+New York City,1,1123920887,witness
+New York City,1,1241237898,witness
+New York City,1,1259822823,witness
+New York City,1,1275919310,witness
+New York City,1,1372888681,witness
+New York City,1,1372888856,witness
+New York City,1,1397764134,affected
+New York City,1,1544596223,witness
+New York City,1,1544809872,witness
+New York City,1,1545167975,affected
+New York City,1,1567286111,witness
+New York City,1,1570028197,witness
+New York City,1,1581431079,affected
+New York City,1,1701116526,witness
+New York City,1,1701253580,witness
+New York City,1,1702839422,affected
+New York City,1,1760566994,witness
+New York City,1,1788027710,witness
+New York City,1,1815133244,witness
+New York City,1,1825666324,affected
+New York City,1,1909472468,witness
+New York City,1,1970262958,witness
+New York City,1,2051638262,affected
+New York City,1,2089938002,witness
+New York City,1,2141026494,witness
+New York City,1,2141026497,witness
+New York City,1,2302449497,affected
+New York City,1,2325762809,witness
+New York City,1,2327295349,witness
+New York City,1,2328392640,witness
+New York City,1,2351786296,witness
+New York City,1,2377574883,witness
+New York City,1,2377652115,witness
+New York City,1,2393809742,witness
+New York City,1,2408438451,witness
+New York City,1,2431641177,affected
+New York City,1,2462253817,affected
+New York City,1,2484497662,witness
+New York City,1,2533227235,witness
+New York City,1,2569797173,witness
+New York City,1,2756630010,witness
+New York City,1,2776601450,witness
+New York City,1,2784484080,witness
+New York City,1,2883770239,affected
+New York City,1,2885481533,affected
+New York City,1,2924921644,witness
+New York City,1,2926115549,witness
+New York City,1,2978124469,affected
+New York City,1,3099327970,witness
+New York City,1,3174844145,witness
+New York City,1,3324555210,affected
+New York City,1,3531141530,witness
+New York City,1,3556769013,witness
+New York City,1,3656036625,witness
+New York City,1,3659229832,witness
+New York City,1,3788309219,witness
+New York City,1,3795557337,witness
+New York City,1,4026460324,witness
+New York City,1,4058789936,affected
+New York City,1,4202699385,witness
+New York City,1,4207962275,witness
+New York City,1,4557517549,witness
+New York City,1,4691168202,witness
+New York City,1,4691207639,affected
+New York City,1,4729745527,witness
+New York City,1,4841945993,witness
+New York City,1,4886250352,witness
+New York City,1,4997218105,affected
+New York City,1,5071822871,witness
+New York City,1,5118503970,witness
+New York City,1,5118579386,affected
+New York City,1,5118621258,affected
+New York City,1,5127233082,affected
+New York City,1,5137382108,witness
+New York City,1,5155424220,witness
+New York City,1,5155611729,affected
+New York City,1,5155641805,witness
+New York City,1,5162100087,affected
+New York City,1,5288127949,witness
+New York City,1,5314129843,witness
+New York City,1,5327456905,witness
+New York City,1,5327525594,witness
+New York City,1,5347423040,witness
+New York City,1,5354276354,affected
+New York City,1,5362869645,affected
+New York City,1,5366311711,witness
+New York City,1,5369802059,affected
+New York City,1,5375734383,witness
+New York City,1,5436368615,witness
+New York City,1,5449046487,witness
+New York City,1,5463887333,affected
+New York City,1,5481915263,witness
+New York City,1,5481972209,witness
+New York City,1,5481989161,affected
+New York City,1,5482216785,witness
+New York City,1,5482302994,affected
+New York City,1,5482600157,affected
+New York City,1,5487731995,witness
+New York City,1,5487796396,affected
+New York City,1,5487817605,affected
+New York City,1,5487854352,affected
+New York City,1,5487859542,affected
+New York City,1,5488328743,affected
+New York City,1,5488471172,affected
+New York City,1,5488521476,affected
+New York City,1,5488584400,affected
+New York City,1,5488651218,affected
+New York City,1,5488663616,witness
+New York City,1,5490081031,affected
+New York City,1,5490110922,witness
+New York City,1,5490127777,affected
+New York City,1,5490136549,witness
+New York City,1,5490208048,affected
+New York City,1,5490222232,affected
+New York City,1,5490267908,affected
+New York City,1,5491803946,affected
+New York City,1,5515778110,witness
+New York City,1,5587763848,affected
+New York City,1,5697725252,affected
+New York City,1,5706568625,witness
+New York City,1,5837182318,witness
+New York City,1,5914673875,affected
+New York City,1,5921270054,witness
+New York City,1,6091080882,witness
+New York City,1,6100414618,affected
+New York City,1,6103568666,witness
+New York City,1,6223571522,witness
+New York City,1,6293384396,witness
+New York City,1,6358339108,witness
+New York City,1,6794176822,witness
+New York City,1,6852805812,witness
+New York City,1,6856077433,witness
+New York City,1,6858150177,affected
+New York City,1,6884657588,witness
+New York City,1,6952744087,affected
+New York City,1,7065653443,affected
+New York City,1,7127644624,affected
+New York City,1,7132405535,witness
+New York City,1,7153537090,affected
+New York City,1,7153878793,witness
+New York City,1,7155584220,affected
+New York City,1,7260148283,witness
+New York City,1,7262899109,affected
+New York City,1,7263158997,affected
+New York City,1,7266616979,affected
+New York City,1,7404714831,affected
+New York City,1,7424335799,affected
+New York City,1,7477291296,witness
+New York City,1,7491182059,witness
+New York City,1,7640495254,witness
+New York City,1,7675107361,witness
+New York City,1,7675107369,witness
+New York City,1,7678847946,witness
+New York City,1,7725544401,witness
+New York City,1,7761426963,witness
+New York City,1,7767706682,witness
+New York City,1,7816228298,witness
+New York City,1,7833815771,witness
+New York City,1,7857650535,witness
+New York City,1,7857724410,affected
+New York City,1,7870075190,witness
+New York City,1,7966649459,witness
+New York City,1,7975683130,affected
+New York City,1,7987919439,witness
+New York City,1,7998432012,witness
+New York City,1,8095670378,affected
+New York City,1,8132470015,affected
+New York City,1,8250837755,affected
+New York City,1,8261122874,witness
+New York City,1,8281469721,witness
+New York City,1,8288780473,affected
+New York City,1,8337484805,witness
+New York City,1,8376024150,affected
+New York City,1,8404036868,witness
+New York City,1,8419209920,affected
+New York City,1,8459930538,affected
+New York City,1,8506445594,affected
+New York City,1,8692255590,affected
+New York City,1,8934097198,affected
+New York City,1,9075300882,affected
+New York City,1,9156942262,witness
+New York City,1,9212448643,affected
+New York City,1,9611529611,witness
+New York City,1,10073137593,witness
+New York City,1,10168942419,witness
+New York City,1,10206275603,witness
+New York City,1,10297493294,witness
+New York City,1,10619880862,affected
+New York City,1,10768307910,witness
+New York City,1,10774439502,affected
+New York City,1,11114791907,affected
+New York City,1,11114803518,witness
+New York City,1,11157958408,witness
+New York City,1,11296298835,witness
+New York City,1,11313758671,witness
+New York City,1,11332492090,affected
+New York City,1,11368897545,affected
+New York City,1,11575291537,witness
+New York City,1,11616874712,affected
+New York City,1,11655553758,witness
+New York City,1,11685025845,affected
+New York City,1,11892679161,witness
+New York City,1,12099277766,affected
+New York City,1,12162502083,witness
+New York City,1,12170251901,affected
+New York City,1,12766117175,affected
+New York City,1,12965735041,witness
+New York City,1,12969803283,witness
+New York City,1,13006304395,affected
+New York City,1,13008589087,affected
+New York City,1,13120586689,witness
+New York City,3,42424703,witness
+New York City,3,42430742,witness
+New York City,3,42430761,witness
+New York City,3,42431671,witness
+New York City,3,42432882,witness
+New York City,3,42434780,witness
+New York City,3,42436056,witness
+New York City,3,42437613,witness
+New York City,3,42439272,witness
+New York City,3,42441080,witness
+New York City,3,42460192,witness
+New York City,3,42468019,affected
+New York City,3,42469180,witness
+New York City,3,42469454,witness
+New York City,3,42474225,witness
+New York City,3,42474696,witness
+New York City,3,42476017,witness
+New York City,3,42476344,witness
+New York City,3,42480232,witness
+New York City,3,42480593,witness
+New York City,3,42481566,witness
+New York City,3,42485093,witness
+New York City,3,42489336,witness
+New York City,3,42490653,witness
+New York City,3,42496990,witness
+New York City,3,42499849,witness
+New York City,3,42500793,witness
+New York City,3,42503964,witness
+New York City,3,42511543,affected
+New York City,3,42512613,witness
+New York City,3,42513246,witness
+New York City,3,42514918,witness
+New York City,3,42519536,witness
+New York City,3,42522015,witness
+New York City,3,42731793,affected
+New York City,3,42735599,witness
+New York City,3,42745146,witness
+New York City,3,42748982,witness
+New York City,3,42751643,witness
+New York City,3,42757596,witness
+New York City,3,42758041,witness
+New York City,3,42758250,witness
+New York City,3,42760517,affected
+New York City,3,42762467,affected
+New York City,3,42764641,witness
+New York City,3,42771895,witness
+New York City,3,42775409,witness
+New York City,3,42781415,witness
+New York City,3,42791714,witness
+New York City,3,42800498,witness
+New York City,3,42813980,affected
+New York City,3,42818324,witness
+New York City,3,42818520,witness
+New York City,3,42821158,affected
+New York City,3,42821502,witness
+New York City,3,42823558,witness
+New York City,3,42830984,witness
+New York City,3,42831816,affected
+New York City,3,42837226,affected
+New York City,3,42844592,witness
+New York City,3,42847121,witness
+New York City,3,42847277,witness
+New York City,3,42853125,affected
+New York City,3,42861095,witness
+New York City,3,42896060,witness
+New York City,3,42915432,witness
+New York City,3,42944320,witness
+New York City,3,42944780,witness
+New York City,3,42944880,witness
+New York City,3,42951077,witness
+New York City,3,42953940,witness
+New York City,3,42957030,witness
+New York City,3,42958572,affected
+New York City,3,42959780,affected
+New York City,3,42962429,affected
+New York City,3,42964161,affected
+New York City,3,42971446,witness
+New York City,3,42972796,affected
+New York City,3,42975455,witness
+New York City,3,42978051,witness
+New York City,3,42986367,witness
+New York City,3,42986416,witness
+New York City,3,43000445,witness
+New York City,3,43002949,witness
+New York City,3,43003665,affected
+New York City,3,43005803,witness
+New York City,3,43008113,witness
+New York City,3,43010905,affected
+New York City,3,43013303,witness
+New York City,3,43019540,witness
+New York City,3,43023260,witness
+New York City,3,43023923,affected
+New York City,3,43024544,affected
+New York City,3,246649427,witness
+New York City,3,274325536,witness
+New York City,3,277385119,witness
+New York City,3,278221135,affected
+New York City,3,374470740,witness
+New York City,3,447829828,witness
+New York City,3,448152046,witness
+New York City,3,470856734,witness
+New York City,3,471387919,affected
+New York City,3,472979798,witness
+New York City,3,479847982,witness
+New York City,3,484213727,witness
+New York City,3,595749112,witness
+New York City,3,596507412,witness
+New York City,3,598622332,witness
+New York City,3,598784295,witness
+New York City,3,701606854,witness
+New York City,3,761583564,witness
+New York City,3,767502436,witness
+New York City,3,1241237898,witness
+New York City,3,1370721862,witness
+New York City,3,1545167975,affected
+New York City,3,1567286111,witness
+New York City,3,1701116526,witness
+New York City,3,1701252604,affected
+New York City,3,1701260214,affected
+New York City,3,1702839422,affected
+New York City,3,1760566994,witness
+New York City,3,1788027710,witness
+New York City,3,1825666324,affected
+New York City,3,1909472468,witness
+New York City,3,1942055254,witness
+New York City,3,1962543958,affected
+New York City,3,2325762809,witness
+New York City,3,2327295349,witness
+New York City,3,2328392640,witness
+New York City,3,2377652115,witness
+New York City,3,2393809742,witness
+New York City,3,2431641177,witness
+New York City,3,2446451216,witness
+New York City,3,2610355878,witness
+New York City,3,2690682182,affected
+New York City,3,2776601450,witness
+New York City,3,2808370278,affected
+New York City,3,2860983188,witness
+New York City,3,2875093096,witness
+New York City,3,2895362619,witness
+New York City,3,3174857183,witness
+New York City,3,3519902036,witness
+New York City,3,3554513267,witness
+New York City,3,3656036625,witness
+New York City,3,3765548245,witness
+New York City,3,3788309219,witness
+New York City,3,3832902959,witness
+New York City,3,3871072001,witness
+New York City,3,4058789936,affected
+New York City,3,4621179666,affected
+New York City,3,4691207639,affected
+New York City,3,4729745527,witness
+New York City,3,4759939157,witness
+New York City,3,4906764427,witness
+New York City,3,4997218105,affected
+New York City,3,5118503970,witness
+New York City,3,5123389823,witness
+New York City,3,5288127949,witness
+New York City,3,5354276354,affected
+New York City,3,5376251280,witness
+New York City,3,5473204227,witness
+New York City,3,5481877638,witness
+New York City,3,5481915263,witness
+New York City,3,5481915284,witness
+New York City,3,5481989161,witness
+New York City,3,5482577681,witness
+New York City,3,5482786012,witness
+New York City,3,5487731995,witness
+New York City,3,5487796396,affected
+New York City,3,5488133420,witness
+New York City,3,5488296488,witness
+New York City,3,5488328743,affected
+New York City,3,5488533016,witness
+New York City,3,5488584400,affected
+New York City,3,5488614259,witness
+New York City,3,5488639188,witness
+New York City,3,5490110922,witness
+New York City,3,5490127777,affected
+New York City,3,5490136549,witness
+New York City,3,5490139484,witness
+New York City,3,5490139796,affected
+New York City,3,5490153503,affected
+New York City,3,5490183085,affected
+New York City,3,5490208048,affected
+New York City,3,5490222232,witness
+New York City,3,5490486087,affected
+New York City,3,5490603175,witness
+New York City,3,5540498325,witness
+New York City,3,5554995136,affected
+New York City,3,5706568625,witness
+New York City,3,5837182318,witness
+New York City,3,5845742446,affected
+New York City,3,5920675990,witness
+New York City,3,6103568666,witness
+New York City,3,6231398227,witness
+New York City,3,6295190639,witness
+New York City,3,6331080434,witness
+New York City,3,6358339108,witness
+New York City,3,6411331100,witness
+New York City,3,6603084849,witness
+New York City,3,6654345986,affected
+New York City,3,6710346043,affected
+New York City,3,6794176822,witness
+New York City,3,6816421861,witness
+New York City,3,6852805812,witness
+New York City,3,6857504999,witness
+New York City,3,6877219979,affected
+New York City,3,6936641091,affected
+New York City,3,6949740430,witness
+New York City,3,6952744087,affected
+New York City,3,7071478949,affected
+New York City,3,7148818727,affected
+New York City,3,7155584220,affected
+New York City,3,7239176972,witness
+New York City,3,7260981083,affected
+New York City,3,7298067999,witness
+New York City,3,7404714831,affected
+New York City,3,7433543955,affected
+New York City,3,7554077968,witness
+New York City,3,7659376756,witness
+New York City,3,7663390763,witness
+New York City,3,7678847946,witness
+New York City,3,7711046935,witness
+New York City,3,7725181269,witness
+New York City,3,7727481327,affected
+New York City,3,7833521869,affected
+New York City,3,7850351613,witness
+New York City,3,7857650535,witness
+New York City,3,7950054622,witness
+New York City,3,7951097793,witness
+New York City,3,7964524490,affected
+New York City,3,7966649459,witness
+New York City,3,7968858211,witness
+New York City,3,8018964707,witness
+New York City,3,8095670378,affected
+New York City,3,8253436306,witness
+New York City,3,8253865840,affected
+New York City,3,8275457714,affected
+New York City,3,8288780473,witness
+New York City,3,8294911968,affected
+New York City,3,8337484805,witness
+New York City,3,8404036868,witness
+New York City,3,8419209920,affected
+New York City,3,8433855055,witness
+New York City,3,8506445594,affected
+New York City,3,8886936296,witness
+New York City,3,8929303439,witness
+New York City,3,9102756911,witness
+New York City,3,9153637237,witness
+New York City,3,9316758170,affected
+New York City,3,9347881373,witness
+New York City,3,9509518363,witness
+New York City,3,9665369351,witness
+New York City,3,9729480531,witness
+New York City,3,9890679972,witness
+New York City,3,9918054899,witness
+New York City,3,9979281325,affected
+New York City,3,9987325151,witness
+New York City,3,10168942419,witness
+New York City,3,10183024494,witness
+New York City,3,10183035757,witness
+New York City,3,10228306714,witness
+New York City,3,10680043656,witness
+New York City,3,10713497398,witness
+New York City,3,10766796047,witness
+New York City,3,10768307910,witness
+New York City,3,10774439424,witness
+New York City,3,10774439502,affected
+New York City,3,10787220299,affected
+New York City,3,11030812456,affected
+New York City,3,11313758671,witness
+New York City,3,11368897545,affected
+New York City,3,11484410420,witness
+New York City,3,11575291537,witness
+New York City,3,11586092960,witness
+New York City,3,11616874712,witness
+New York City,3,11645351138,affected
+New York City,3,11655553758,witness
+New York City,3,11685025845,affected
+New York City,3,11694917946,witness
+New York City,3,11892679161,witness
+New York City,3,11980118316,affected
+New York City,3,12099277766,affected
+New York City,3,12123720018,witness
+New York City,3,12162502083,witness
+New York City,3,12170251901,affected
+New York City,3,12203239637,witness
+New York City,3,12637129581,affected
+New York City,3,12766117175,witness
+New York City,3,12839249663,witness
+New York City,3,12883509060,witness
+New York City,3,12987425025,witness
+New York City,3,13115714618,affected
+New York City,3,13121238539,witness

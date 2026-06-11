@@ -1,0 +1,12 @@
+# Unzipped data (ship the zips in data/, not the expanded folders)
+/ulmm_pickles/
+/cache_nyc_ulmm/
+/cache_pop/
+
+# Derived per-process cache (auto-created by ablations.py on first run)
+/cache/
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store

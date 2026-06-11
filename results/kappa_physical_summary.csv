@@ -1,0 +1,13 @@
+city,k,n_k2_zones,w_witness,w_affected,frac_twin_flow
+Amsterdam,1,130,0.931,0.069,0.0
+Amsterdam,3,124,0.969,0.031,0.0
+Barcelona,1,125,0.945,0.055,0.0
+Barcelona,3,95,0.954,0.046,0.0
+Paris,1,157,0.862,0.138,0.0
+Paris,3,108,0.918,0.082,0.0
+Seattle,1,112,0.533,0.467,0.0
+Seattle,3,102,0.432,0.568,0.0
+New York City,1,641,0.821,0.179,0.0
+New York City,3,294,0.729,0.271,0.0
+POOLED,1,1165,0.824,0.176,0.0
+POOLED,3,723,0.786,0.214,0.0

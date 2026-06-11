@@ -1,0 +1,5 @@
+outcome,score,AUC,lift
+Truck-crash hotspot,cut-criticality (kappa SPOF),0.497,0.93
+Truck-crash hotspot,DEB betweenness,0.754,4.11
+311 complaint hotspot,cut-criticality (kappa SPOF),0.498,0.69
+311 complaint hotspot,DEB betweenness,0.62,1.95

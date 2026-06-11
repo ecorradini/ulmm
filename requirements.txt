@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+networkx
+osmnx
+scikit-learn
+matplotlib
+geopandas
+shapely
+statsmodels
+rasterio
+pyproj
