@@ -1,8 +1,9 @@
 # Access redundancy κ — code and data
 
 Reproduction package for *Access Redundancy and Single Points of Failure in Coupled
-Demand–Access Networks: An Exact Max-Flow Resilience Measure and the Misranking of
-Route-Diversity Indices*.
+Demand–Access Networks: What Route-Diversity Indices Cannot Certify* (IEEE TNSE
+submission; supersedes the earlier draft titled "…An Exact Max-Flow Resilience Measure
+and the Misranking of Route-Diversity Indices").
 
 The access redundancy `κ(d)` of a demand `d` is the maximum number of edge-disjoint directed
 paths from `d` to an access set on a friction-aware street substrate; by Menger's theorem it
@@ -84,3 +85,31 @@ standalone run). A small per-process cache is created under `cache/` on first ru
 
 κ is invariant to the cost model, so it does not depend on the friction parameters; those enter
 only the route-diversity baselines (van profile).
+
+
+## Revision additions (TNSE version)
+
+New scripts (in `code/`), all runnable offline from the cached data except the closure
+download:
+
+15. `misranking_certificate.py` — the sound disjoint-subfamily certificate `D(P) ≤ κ`
+    computed on the same route ensembles as the index audit (**Table IV**; acceptance
+    gate: zero soundness violations across all 3,623 instances).
+16. `external_spof_stats.py` — corrected NYC betweenness→SPOF retrieval statistics
+    (average precision both directions, NTA stratification, within-NTA permutation,
+    matched controls, zero-betweenness floor decomposition; **§V-E.1**). Persists the
+    previously ad-hoc reverse block to `results/external_spof_stats.csv`.
+17. `reliability_mc.py` — Monte-Carlo check of the disconnection-exponent proposition on
+    Barcelona (**Table VIII**; fitted exponents cluster at κ).
+18. `closure_replay.py` — predictive-validity replay of the NYC DOT "Street Closures due
+    to Construction Activities by Block" full-closure permits against the October-2025
+    extract (**§V-E.2**). The archived snapshot (2026-07-19) ships in
+    `data/cache_closures/`; per-demand κ + named min-cut edges on the external extract
+    are persisted to `results/external_perdemand_kappa.csv`.
+19. `audit_numbers.py`, `audit_numbers_tnse.py` — number audits: every hand-transcribed
+    manuscript value is recomputed from its source CSV (172 + 75 checks; both must exit 0).
+
+Reporting conventions fixed in this version: pooled shares weight cities equally;
+co-located zones (entry node coincides with an access anchor) are reported as κ=∞ inside
+the redundant class (85 zones at k=3, 5.5% of pooled weight; the code's `KCAP=50` display
+cap corresponds to this convention).
