@@ -1,9 +1,9 @@
 # Access redundancy κ — code and data
 
-Reproduction package for *Access Redundancy and Single Points of Failure in Coupled
-Demand–Access Networks: What Route-Diversity Indices Cannot Certify* (IEEE TNSE
-submission; supersedes the earlier draft titled "…An Exact Max-Flow Resilience Measure
-and the Misranking of Route-Diversity Indices").
+Reproduction package for *Route-Diversity Indices Cannot Certify Access Redundancy:
+Theory and a Five-City Audit* (IEEE TNSE submission; supersedes earlier drafts titled
+"…An Exact Max-Flow Resilience Measure and the Misranking of Route-Diversity Indices"
+and "…What Route-Diversity Indices Cannot Certify").
 
 The access redundancy `κ(d)` of a demand `d` is the maximum number of edge-disjoint directed
 paths from `d` to an access set on a friction-aware street substrate; by Menger's theorem it
@@ -46,6 +46,9 @@ cd <repo root>
 unzip -o data/ulmm_pickles.zip         # -> ulmm_pickles/
 unzip -o data/cache_nyc_ulmm.zip       # -> cache_nyc_ulmm/
 unzip -o data/cache_pop.zip            # -> cache_pop/
+unzip -o data/cache_nyc_derived.zip    # -> cache_nyc_ulmm/ (exact-DEB artefacts,
+                                       #    lets the audits run without redoing
+                                       #    the betweenness pipeline)
 ```
 
 All scripts use paths relative to the repository root, so **run them from the root**, e.g.
@@ -107,9 +110,54 @@ download:
     `data/cache_closures/`; per-demand κ + named min-cut edges on the external extract
     are persisted to `results/external_perdemand_kappa.csv`.
 19. `audit_numbers.py`, `audit_numbers_tnse.py` — number audits: every hand-transcribed
-    manuscript value is recomputed from its source CSV (172 + 75 checks; both must exit 0).
+    manuscript value is recomputed from its source CSV (170 + 338 checks; both must exit 0).
 
-Reporting conventions fixed in this version: pooled shares weight cities equally;
-co-located zones (entry node coincides with an access anchor) are reported as κ=∞ inside
+Reporting conventions: pooled shares weight cities by **demand mass** (New York City
+carries ≈44% of the pooled weight; equal-city pooling would put the pooled
+single-point-of-failure share near 9% instead of 7–8%, and the manuscript states this
+alternative once); co-located zones (entry node coincides with an access anchor) are reported as κ=∞ inside
 the redundant class (85 zones at k=3, 5.5% of pooled weight; the code's `KCAP=50` display
 cap corresponds to this convention).
+
+## Certification-frontier additions (current TNSE version)
+
+The theoretical core of the current version is the **certification frontier**: the least
+budget `B*_r(d) = min{B : κ(G^(B)) ≥ r}` whose sub-network already carries `r` disjoint
+routes is both necessary and sufficient for a budget-local generator to certify redundancy
+`r` (Proposition 8). These scripts produce every number behind it.
+
+20. `certificate_envelope.py` — completeness envelope of the certificate `D` across
+    generator families and budgets (IPSP ρ∈{4,1.25}, exact Yen, ε-budgets × K∈{3,5,15};
+    **Table XII**). Also persists per-demand rows with each cell's realized and a priori
+    horizons to `results/certificate_envelope_perdemand.csv`.
+21. `certification_frontier.py` — exact `B*_2`, `B*_3` per demand (two shortest-path
+    passes + binary search over the O(m) thresholds, capped max-flow per probe) →
+    `results/certification_horizon.csv`. Guard `--guard` recomputes κ on the full support
+    and asserts it reproduces the stored labels.
+22. `frontier_gate.py` — the falsification gate. T1 tests necessity pointwise (a single
+    violation refutes Proposition 8); T2 compares each Table XII cell against its ceiling
+    `P(B_g ≥ B*_2)`. Deduplicates `(city,d)` before joining: several demand cells snap to
+    the same street node, and joining without that silently reweights every rate.
+23. `frontier_achievability.py` — the achievability half: at `B*_2` the augmenting-path
+    generator must return two arc-disjoint routes (200/200 sampled demands), plus a
+    positive control comparing the binary search against an exhaustive threshold sweep.
+24. `deb_exact.py` — exact demand-weighted betweenness over all 2,657 distinct
+    access-anchor nodes, replacing the earlier 80-source subsample.
+25. `deb_orientation_control.py` — the same betweenness recomputed in the *matching*
+    demand→access orientation, the control behind §V-E.1's conclusion that no orientation
+    retrieves single points of failure at usable precision.
+26. `closure_replay_ext.py` — multi-street closure count and the concurrent (day-by-day
+    union) replay, with severance durations and weighted-demand-days.
+27. `bridge_baseline.py`, `hybrid_workflow.py`, `densify_test.py`, `pop_coverage.py`,
+    `equity_overlay.py` — structural bridge baseline, screen-then-verify comparator,
+    anchor densification, zero-POI population share, and the ACS tract overlay
+    (keyless: streams the ACS table-based summary files).
+28. `entry_diameters.py` — per-city entry-set spatial diameter by `k` (the 55–91 m span
+    quoted for block scale).
+29. `check_build.py` — build gates for the manuscript itself (page budget, abstract
+    length, embedded fonts, no overfull boxes, references ending on page 10).
+
+Run the audits last: `python code/audit_numbers.py` and `python code/audit_numbers_tnse.py`
+must both report zero failures. On a fresh clone the five `INST` checks report `INFO`
+rather than a value, because they read the collapsed-graph cache that the pipeline builds
+on first run; everything else is checked against the shipped CSVs.

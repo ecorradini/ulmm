@@ -1,0 +1,6 @@
+city,n_cut_edges,cuts_that_are_bridges,share,total_undirected_bridges,substrate_edges
+Amsterdam,72,40,0.556,4832,40901
+Barcelona,56,22,0.393,1782,21285
+Paris,46,6,0.13,2079,27261
+Seattle,40,32,0.8,17853,122367
+New York City,113,37,0.327,15778,206872

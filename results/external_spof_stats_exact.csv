@@ -1,0 +1,24 @@
+metric,value,lo,hi,note
+n_segments,209152.0,,,
+n_spof,2010.0,,,
+base_rate,0.0096,,,
+auc_raw,0.3426,0.3324,0.3525,"manuscript 0.34 [0.33,0.35]"
+ap_deb,0.0099,,,retrieval with high betweenness
+ap_neg_deb,0.0155,,,retrieval with LOW betweenness
+lift_top_decile_deb,0.7711,,,
+lift_top_decile_neg_deb,1.7219,,,
+auc_between_nta,0.5495,,,NTA-mean betweenness as score
+auc_within_nta,0.376,,,NTA-demeaned betweenness
+auc_stratified_median,0.3211,0.2198,0.4579,per-NTA AUC over 134 NTAs with both classes; lo/hi = IQR
+perm_within_null_lo,0.4534,,,
+perm_within_null_hi,0.4749,,,
+perm_within_pvalue,0.001,,,"two-sided, within-NTA label permutation"
+auc_matched,0.3133,0.3011,0.3248,"2010 SPOFs, 5 same-NTA controls each, matched on length+POI"
+spof_deb_pctile_q25,0.2378,,,
+spof_deb_pctile_median,0.2378,,,manuscript diagnosis: ~24th pctile
+spof_deb_pctile_q75,0.2378,,,
+spof_share_bottom_quartile_deb,0.8189,,,
+spof_share_top_decile_deb,0.0771,,,
+mean_debz_spof,0.1065,,,manuscript diagnosis: +0.10
+mean_debz_nonspof,-0.001,,,
+n_ntas_with_spof,134.0,,,

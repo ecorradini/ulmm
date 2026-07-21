@@ -1,0 +1,12 @@
+metric,value
+corr_exact_vs_subsampled,0.9988
+zero_deb_share_exact,0.4756
+n_sources,2657.0
+auc_y_trk_hot_exact,0.754
+lift_y_trk_hot_exact,4.108
+auc_y_trk_hot_subsampled,0.754
+lift_y_trk_hot_subsampled,4.108
+auc_y_311_hot_exact,0.62
+lift_y_311_hot_exact,1.938
+auc_y_311_hot_subsampled,0.62
+lift_y_311_hot_subsampled,1.954

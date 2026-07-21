@@ -1,0 +1,6 @@
+city,n_cells,n_kept,n_excluded,pop_share_excluded
+Amsterdam,989,409,580,0.344
+Barcelona,510,305,205,0.183
+Paris,488,386,102,0.119
+Seattle,1619,472,1147,0.38
+New York City,5093,1869,3224,0.233

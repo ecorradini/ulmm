@@ -28,8 +28,10 @@ import numpy as np
 import pandas as pd
 from sklearn.metrics import average_precision_score, roc_auc_score
 
-CACHE = "cache_nyc_ulmm/cutcrit_seg.pkl"
-OUT = "results/external_spof_stats.csv"
+import sys as _sys
+_EXACT = "--exact" in _sys.argv
+CACHE = ("cache_nyc_ulmm/cutcrit_seg_exact.pkl" if _EXACT else "cache_nyc_ulmm/cutcrit_seg.pkl")
+OUT = ("results/external_spof_stats_exact.csv" if _EXACT else "results/external_spof_stats.csv")
 B_BOOT = 2000
 B_PERM = 1000
 SEED = 4242

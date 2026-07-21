@@ -1,0 +1,15 @@
+,value
+matched_closures,1443.0
+multi_street_closures,99.0
+windows_opened_by_snapshot,1262.0
+windows_finished_by_snapshot,161.0
+windows_wholly_future,181.0
+replay_days,199.0
+peak_concurrent_closures,1171.0
+peak_edges_closed,2186.0
+anchors_ever_severed,46.0
+severed_k1,32.0
+severed_k2plus,14.0
+median_days_severed,69.0
+max_days_severed,91.0
+total_weighted_demand_days,26458.0

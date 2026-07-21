@@ -15,7 +15,12 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-R = Path(__file__).resolve().parent / "results"
+HERE = Path(__file__).resolve().parent
+# Layout-agnostic root: in the working tree the scripts sit beside results/;
+# in the released repository they live in code/ with results/ one level up.
+if not (HERE / "results").exists() and (HERE.parent / "results").exists():
+    HERE = HERE.parent
+R = HERE / "results"
 KCAP = 50  # reanchor_kappa.py display cap; kappa==KCAP means co-located (entry ∩ access ≠ ∅)
 
 checks = []  # (status, label, computed, expected)
@@ -55,8 +60,9 @@ cname = {c: (NYC if c == "New York City" else c) for c in CITIES}
 
 
 def pool_share(df, kval):
-    """Demand-weighted pooled share of kappa==kval, cities pooled by raw weight
-    (weights are per-city normalized, so this equal-weights cities)."""
+    """Demand-weighted pooled share of kappa==kval. Weights are RAW city demand
+    masses (New York City carries ~44% of the pooled mass), so concatenating
+    rows pools cities by demand mass, the manuscript's declared convention."""
     if kval == ">=2":
         m = df.kappa >= 2
     else:
@@ -103,13 +109,16 @@ for city, exp in T5.items():
     # the median is robust to them, matching the kappa=infinity reporting convention
     check(f"T5 {city} med kappa (DA, incl. co-located)", np.median(g.kappa), exp[6], nd=0)
 
-# Pooling convention identified: per-city-normalized weights concatenated
-# (= cities equally weighted). The n-weighted alternative gives AD 0.069 -> must
-# be documented in the manuscript as "cities pooled with equal weight".
+# Pooling convention: demand-mass (raw weights concatenated; NYC ~44% of mass),
+# as declared in Sec. V-A. Equal-city pooling (mean of per-city shares) is the
+# ~9% alternative quoted there.
 for orient, expw1 in (("AD", 0.08), ("DA", 0.07)):
     g = pdm[(pdm.orientation == orient) & (pdm.k == 3)]
-    check(f"T5 pooled w1 {orient} [equal-city pooling]", pool_share(g, 1), expw1)
-    checks.append(("INFO", f"T5 pooled w1 {orient} n-weighted alternative", round(pool_share_n(g, 1), 3), f"paper prints {expw1}"))
+    check(f"T5 pooled w1 {orient} [demand-mass pooling]", pool_share(g, 1), expw1)
+    ec = g.groupby("city").apply(lambda x: x.w[x.kappa == 1].sum() / x.w.sum(),
+                                 include_groups=False).mean()
+    checks.append(("INFO", f"T5 pooled w1 {orient} equal-city alternative",
+                   round(float(ec), 3), "paper quotes ~9% (DA)"))
 
 # ============================================================ Table 7 (tab:anchoring)
 # DA orientation. single-entry k=1: kappa1, kappa0, cut-adj ; multi k=3 same.

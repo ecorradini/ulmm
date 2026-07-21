@@ -28,7 +28,10 @@ from scipy.spatial import cKDTree
 
 import ablations as ab
 
+import sys as _sys
 CITY = "Barcelona, Spain"
+if "--city" in _sys.argv:
+    CITY = _sys.argv[_sys.argv.index("--city") + 1]
 VEH = "van"; KNN = 3; KCAP = 50
 PGRID = [(0.10, 30_000), (0.05, 50_000), (0.02, 100_000), (0.01, 100_000), (0.005, 100_000)]
 SEED = 20260719
@@ -69,7 +72,7 @@ def main():
 
     # kappa labels from the primary run
     rk = pd.read_csv("results/reanchor_perdemand.csv")
-    rk = rk[(rk.city == "Barcelona") & (rk.orientation == "DA") & (rk.k == KNN)]
+    rk = rk[(rk.city == CITY.split(",")[0]) & (rk.orientation == "DA") & (rk.k == KNN)]
     rk = rk.drop_duplicates(subset=["d"])
     kap = {int(r.d): int(r.kappa) for r in rk.itertuples()}
     kap_u = np.array([kap.get(n, -1) for n in unique])
@@ -110,7 +113,7 @@ def main():
         cls = {("inf" if kv >= KCAP else str(kv)): disc[kap_u == kv].sum() / (B * (kap_u == kv).sum())
                for kv in sorted(set(kap_u))}
         print(f"p={p} B={B}: class P-hat {cls} ({time.time()-t1:.0f}s)", flush=True)
-        pd.DataFrame(rows_out).to_csv("results/reliability_mc.csv", index=False)
+        pd.DataFrame(rows_out).to_csv(f"results/reliability_mc_{CITY.split(",")[0].replace(" ", "_").lower()}.csv" if CITY != "Barcelona, Spain" else "results/reliability_mc.csv", index=False)
 
     df = pd.DataFrame(rows_out)
     # slope fits: class level, using points with >=10 events
@@ -123,7 +126,7 @@ def main():
             resid = y - A_ @ np.linalg.lstsq(A_, y, rcond=None)[0]
             se = float(np.sqrt(resid.var() / max(len(x) - 2, 1) / x.var())) if len(x) > 2 else np.nan
             rows_out.append(dict(level="slope_class", node=-1, kappa=kv, p=np.nan,
-                                 B=len(sub), events=-1, phat=round(float(slope), 3)))
+                                 B=len(sub), events=-1, phat=round(float(slope), 3), se=round(se, 4) if se == se else np.nan))
             print(f"class kappa={kv}: fitted exponent {slope:.3f} (se~{se:.3f}, {len(sub)} p-points)", flush=True)
     # zone-level slopes for kappa in {1,2}
     for kv in (1, 2):
@@ -139,7 +142,7 @@ def main():
                                  B=len(zs), events=-1, phat=round(float(np.median(zs)), 3)))
             print(f"zone-level kappa={kv}: median fitted exponent {np.median(zs):.3f} "
                   f"(IQR {np.percentile(zs,25):.2f}-{np.percentile(zs,75):.2f}, n={len(zs)} zones)", flush=True)
-    pd.DataFrame(rows_out).to_csv("results/reliability_mc.csv", index=False)
+    pd.DataFrame(rows_out).to_csv(f"results/reliability_mc_{CITY.split(",")[0].replace(" ", "_").lower()}.csv" if CITY != "Barcelona, Spain" else "results/reliability_mc.csv", index=False)
     print(f"DONE ({time.time()-t0:.0f}s)", flush=True)
 
 
